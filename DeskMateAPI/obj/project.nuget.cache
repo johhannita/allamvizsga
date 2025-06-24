@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S+OhU1ExocY=",
+  "dgSpecHash": "9kmxWGOux6g=",
   "success": true,
-  "projectFilePath": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+  "projectFilePath": "C:\\GIT\\allamvizsga\\DeskMateAPI\\DeskMateAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rigmanyi\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\rigmanyi\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",

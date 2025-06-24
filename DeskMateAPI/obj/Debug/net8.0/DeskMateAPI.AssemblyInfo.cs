@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeskMateAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81b7cb1edf9f55a4988edfa8f695c25fa8e46bea")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeskMateAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeskMateAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

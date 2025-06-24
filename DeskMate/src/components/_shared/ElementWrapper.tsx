@@ -4,7 +4,7 @@ type Props = BoxProps & {
     titleElement?: JSX.Element
 }
 
-export function ElementWrapper({ titleElement, title, children, width, height, marginLeft, padding }: Props) {
+export function ElementWrapper({ titleElement, title, children, width, height, marginLeft, padding, overflow }: Props) {
     return (
         <Box
             display="flex"
@@ -15,6 +15,7 @@ export function ElementWrapper({ titleElement, title, children, width, height, m
             padding="1em"
             borderRadius="1em"
             border="3px solid lightgrey"
+            overflow={overflow}
         >
             {title && (
                 <Stack direction="row" justifyContent="space-between">

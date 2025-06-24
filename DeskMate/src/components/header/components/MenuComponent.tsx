@@ -1,7 +1,7 @@
 import AccountCircleIcon from "@mui/icons-material/AccountCircle"
-import CalendarMonthIcon from "@mui/icons-material/CalendarMonth"
 import DashboardIcon from "@mui/icons-material/Dashboard"
 import DeskIcon from "@mui/icons-material/Desk"
+import GroupIcon from "@mui/icons-material/Group"
 import HomeIcon from "@mui/icons-material/Home"
 import MenuOpenIcon from "@mui/icons-material/MenuOpen"
 import { IconButton, styled } from "@mui/material"
@@ -28,7 +28,9 @@ export default function MenuComponent(props: MenuProps) {
     const { selectedRole } = useDeskMateStore()
 
     const menuItems = Object.values(Path).filter((path) =>
-        selectedRole === ERole.Admin ? path === Path.Dashboard || path === Path.UserProfile : path,
+        selectedRole === ERole.Admin
+            ? path === Path.Dashboard || path === Path.UserProfile || path === Path.CompanyOverView
+            : path !== Path.CompanyOverView,
     )
 
     const handleSelect = async (menuItem: Path) => {
@@ -43,10 +45,12 @@ export default function MenuComponent(props: MenuProps) {
                 return <DeskIcon />
             case Path.HomeOffice:
                 return <HomeIcon />
-            case Path.YearlyOverview:
-                return <CalendarMonthIcon />
+            // case Path.YearlyOverview:
+            //     return <CalendarMonthIcon />
             case Path.UserProfile:
                 return <AccountCircleIcon />
+            case Path.CompanyOverView:
+                return <GroupIcon />
             default:
                 return null
         }

@@ -140,6 +140,22 @@
   {
     "ContainingType": "DeskMateAPI.Controllers.UserController",
     "Method": "Login",
+    "RelativePath": "api/User/GetUserData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.GetUserData.GetUserDataRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.UserController",
+    "Method": "Login",
     "RelativePath": "api/User/Login",
     "HttpMethod": "POST",
     "IsController": true,

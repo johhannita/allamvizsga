@@ -1,5 +1,6 @@
 ﻿using DeskMateAPI.Features.Auth;
 using DeskMateAPI.Features.GetAllUsers;
+using DeskMateAPI.Features.GetUserData;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -28,6 +29,15 @@ namespace DeskMateAPI.Controllers
         [HttpPost("Login")]
         [Consumes("application/json")]
         public async Task<IActionResult> Login([FromBody] AuthRequest request, CancellationToken cancellationToken)
+        {
+            var token = await _mediator.Send(request, cancellationToken);
+            return Ok(token);
+        }
+
+        [Authorize(Roles = "admin")]
+        [HttpPost("GetUserData")]
+        [Consumes("application/json")]
+        public async Task<IActionResult> Login([FromBody] GetUserDataRequest request, CancellationToken cancellationToken)
         {
             var token = await _mediator.Send(request, cancellationToken);
             return Ok(token);

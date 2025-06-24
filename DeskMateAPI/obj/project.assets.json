@@ -1542,11 +1542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+      "projectUniqueName": "C:\\GIT\\allamvizsga\\DeskMateAPI\\DeskMateAPI.csproj",
       "projectName": "DeskMateAPI",
-      "projectPath": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+      "projectPath": "C:\\GIT\\allamvizsga\\DeskMateAPI\\DeskMateAPI.csproj",
       "packagesPath": "C:\\Users\\rigmanyi\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\DeskMateAPI\\obj\\",
+      "outputPath": "C:\\GIT\\allamvizsga\\DeskMateAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rigmanyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

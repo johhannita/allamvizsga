@@ -9,6 +9,8 @@ import { Header } from "../header/Header"
 import { HomeOfficeComponent } from "../home-office/HomeOfficeComponent"
 import { Profile } from "../profile/Profile"
 import { ReservationComponent } from "../reservation/ReservationComponent"
+import { CompanyOverviewComponent } from "../users/CompanyOverviewComponent"
+import { UserOverView } from "../users/UserOverView"
 import { YearlyOverviewComponent } from "../yearly-overview/YearlyOverviewComponent"
 
 type Props = { element?: React.ReactElement; requiredRole: ERole }
@@ -38,6 +40,14 @@ export function Main() {
                     <Route path={Path.HomeOffice} element={<ProtectedRoute element={<HomeOfficeComponent />} requiredRole={ERole.User} />} />
                     <Route path={Path.YearlyOverview} element={<ProtectedRoute element={<YearlyOverviewComponent />} requiredRole={ERole.User} />} />
                     <Route path={Path.UserProfile} element={<Profile />} />
+                    <Route
+                        path={Path.CompanyOverView}
+                        element={<ProtectedRoute element={<CompanyOverviewComponent />} requiredRole={ERole.Admin} />}
+                    />
+                    <Route
+                        path={`${Path.CompanyOverView}/:userId`}
+                        element={<ProtectedRoute element={<UserOverView />} requiredRole={ERole.Admin} />}
+                    />
                 </Routes>
             </Box>
         </>

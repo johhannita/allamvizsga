@@ -1,0 +1,82 @@
+# ===========================
+# Node.js / Frontend
+# ===========================
+# dependencies
+/node_modules/
+/.pnp/
+/.pnp.js
+
+# build outputs
+/dist/
+/build/
+/out/
+
+# environment variables
+.env
+.env.*.local
+
+# package locks (lockfile should be committed)
+/package-lock.json
+# if you use pnpm
+# /pnpm-lock.yaml
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editor temp files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# coverage
+/coverage/
+
+# ===========================
+# .NET / Backend (VisualStudio)
+# ===========================
+## Build
+/[Bb]in/
+/[Oo]bj/
+/[Ll]og/
+
+## User-specific
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Visual Studio directories
+.vs/
+
+## Rider
+.idea/
+
+## Azure Pipelines
+**/azure-pipelines.yml
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ===========================
+# Misc
+# ===========================
+# IDE files
+*.sw?
+*~ 
+
+# Lock files for other package managers (optional)
+/yarn.lock
+

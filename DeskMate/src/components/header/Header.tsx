@@ -2,12 +2,15 @@ import MenuIcon from "@mui/icons-material/Menu"
 import { IconButton, Stack, styled, Toolbar, Typography } from "@mui/material"
 import MuiAppBar, { AppBarProps as MuiAppBarProps } from "@mui/material/AppBar"
 import { useState } from "react"
+import { ERole } from "src/models/auth"
+import { useDeskMateStore } from "src/store"
 import { LanguagePicker } from "./components/LanguagePicker"
 import MenuComponent from "./components/MenuComponent"
 import { RoleSwitch } from "./components/RoleSwitch"
 
 export function Header() {
     const [menuOpen, setMenuOpen] = useState(false)
+    const { auth } = useDeskMateStore()
 
     const openMenu = () => {
         setMenuOpen(true)
@@ -29,7 +32,7 @@ export function Header() {
                     </Typography>
                 </Stack>
                 <Stack direction="row" gap={2}>
-                    <RoleSwitch />
+                    {auth.role === ERole.Admin && <RoleSwitch />}
                     <LanguagePicker />
                 </Stack>
             </StyledToolbar>

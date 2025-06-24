@@ -1,0 +1,361 @@
+{
+    "spaces": [
+        {
+            "id": "T1",
+            "x": 2,
+            "y": 1,
+            "label": "T1",
+            "priority": "tester",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "T2",
+            "x": 3,
+            "y": 1,
+            "label": "T2",
+            "priority": "tester",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Alice Johnson"
+        },
+        {
+            "id": "T3",
+            "x": 2,
+            "y": 2,
+            "label": "T3",
+            "priority": "tester",
+            "type": 1,
+            "status": 0,
+            "reservedBy": null
+        },
+        {
+            "id": "T4",
+            "x": 3,
+            "y": 2,
+            "label": "T4",
+            "priority": "tester",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Robert Brown"
+        },
+        {
+            "id": "T5",
+            "x": 5,
+            "y": 1,
+            "label": "T5",
+            "priority": "tester",
+            "type": 1,
+            "status": 0,
+            "reservedBy": "Carol Smith"
+        },
+        {
+            "id": "T6",
+            "x": 6,
+            "y": 1,
+            "label": "T6",
+            "priority": "tester",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "David Wilson"
+        },
+        {
+            "id": "T7",
+            "x": 5,
+            "y": 2,
+            "label": "T7",
+            "priority": "tester",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "T8",
+            "x": 6,
+            "y": 2,
+            "label": "T8",
+            "priority": "tester",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Evelyn Davis"
+        },
+        {
+            "id": "T9",
+            "x": 2,
+            "y": 5,
+            "label": "T9",
+            "priority": "tester",
+            "type": 1,
+            "status": 0,
+            "reservedBy": null
+        },
+        {
+            "id": "T10",
+            "x": 3,
+            "y": 5,
+            "label": "T10",
+            "priority": "tester",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Franklin Martinez"
+        },
+        {
+            "id": "T11",
+            "x": 5,
+            "y": 5,
+            "label": "T11",
+            "priority": "tester",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "T12",
+            "x": 6,
+            "y": 5,
+            "label": "T12",
+            "priority": "tester",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Grace Thompson"
+        },
+        {
+            "id": "T13",
+            "x": 8,
+            "y": 5,
+            "label": "T13",
+            "priority": "tester",
+            "type": 1,
+            "status": 0,
+            "reservedBy": "Heidi Anderson"
+        },
+        {
+            "id": "W1",
+            "x": 8,
+            "y": 1,
+            "label": "W1",
+            "priority": "web",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Ivan Petrov"
+        },
+        {
+            "id": "W2",
+            "x": 9,
+            "y": 1,
+            "label": "W2",
+            "priority": "web",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "W3",
+            "x": 8,
+            "y": 2,
+            "label": "W3",
+            "priority": "web",
+            "type": 1,
+            "status": 0,
+            "reservedBy": null
+        },
+        {
+            "id": "W4",
+            "x": 9,
+            "y": 2,
+            "label": "W4",
+            "priority": "web",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Judith Coleman"
+        },
+        {
+            "id": "W5",
+            "x": 11,
+            "y": 1,
+            "label": "W5",
+            "priority": "web",
+            "type": 1,
+            "status": 0,
+            "reservedBy": "Karl O'Neil"
+        },
+        {
+            "id": "W6",
+            "x": 12,
+            "y": 1,
+            "label": "W6",
+            "priority": "web",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Laura Ferguson"
+        },
+        {
+            "id": "W7",
+            "x": 11,
+            "y": 2,
+            "label": "W7",
+            "priority": "web",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "W8",
+            "x": 12,
+            "y": 2,
+            "label": "W8",
+            "priority": "web",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Mallory Cox"
+        },
+        {
+            "id": "W9",
+            "x": 14,
+            "y": 1,
+            "label": "W9",
+            "priority": "web",
+            "type": 1,
+            "status": 0,
+            "reservedBy": null
+        },
+        {
+            "id": "W10",
+            "x": 15,
+            "y": 1,
+            "label": "W10",
+            "priority": "web",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Niaj Patel"
+        },
+        {
+            "id": "W11",
+            "x": 14,
+            "y": 2,
+            "label": "W11",
+            "priority": "web",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "W12",
+            "x": 15,
+            "y": 2,
+            "label": "W12",
+            "priority": "web",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Olivia Reynolds"
+        },
+        {
+            "id": "D1",
+            "x": 17,
+            "y": 1,
+            "label": "D1",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 0,
+            "reservedBy": "Peggy Sullivan"
+        },
+        {
+            "id": "D2",
+            "x": 18,
+            "y": 1,
+            "label": "D2",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "D3",
+            "x": 17,
+            "y": 2,
+            "label": "D3",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Quincy Jackson"
+        },
+        {
+            "id": "D4",
+            "x": 18,
+            "y": 2,
+            "label": "D4",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Rupert King"
+        },
+        {
+            "id": "D5",
+            "x": 20,
+            "y": 1,
+            "label": "D5",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 0,
+            "reservedBy": null
+        },
+        {
+            "id": "D6",
+            "x": 21,
+            "y": 1,
+            "label": "D6",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 2,
+            "reservedBy": "Sybil Young"
+        },
+        {
+            "id": "D7",
+            "x": 20,
+            "y": 2,
+            "label": "D7",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 1,
+            "reservedBy": null
+        },
+        {
+            "id": "D8",
+            "x": 21,
+            "y": 2,
+            "label": "D8",
+            "priority": "dev-services",
+            "type": 1,
+            "status": 3,
+            "reservedBy": "Trent Williams"
+        },
+        {
+            "id": "RELAX",
+            "x": 24,
+            "y": 1,
+            "spanX": "24 / span 7",
+            "spanY": "1 / span 2",
+            "label": "Relax Zone",
+            "type": 3
+        },
+        {
+            "id": "NO",
+            "x": 24,
+            "y": 4,
+            "spanX": "24 / span 7",
+            "spanY": "4 / span 2",
+            "label": "Hallway",
+            "type": 4
+        },
+        {
+            "id": "MEETING1",
+            "x": 14,
+            "y": 4,
+            "spanX": "14 / span 10",
+            "spanY": "4 / span 2",
+            "label": "Meeting Room 1",
+            "type": 2
+        }
+    ]
+}

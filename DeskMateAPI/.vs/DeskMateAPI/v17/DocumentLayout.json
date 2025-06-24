@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\DeskMateAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\getallusers\\getallusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallreservations\\getallreservationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallreservations\\getallreservationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\getallusers\\getallusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\getallusers\\getallusersvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\getallusers\\getallusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\getallusers\\getallusersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\getallusers\\getallusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\getallusers\\getallusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\reservationdetailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\reservationdetailed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\reservationoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\reservationoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\rawmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\rawmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getspacesforreservation\\getspacesforreservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getspacesforreservation\\getspacesforreservationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getreservations\\getreservationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getreservations\\getreservationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getreservations\\getreservationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getreservations\\getreservationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallreservations\\getallreservationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallreservations\\getallreservationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallreservations\\getallreservationsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallreservations\\getallreservationsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallreservations\\getallreservationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallreservations\\getallreservationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getreservations\\getreservationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getreservations\\getreservationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallspaces\\getallspacesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallspaces\\getallspacesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\modifyreservationstatus\\modifyreservationstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\modifyreservationstatus\\modifyreservationstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\gethomeoffice\\gethomeofficehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\gethomeoffice\\gethomeofficehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservespace\\reservespacerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservespace\\reservespacerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getuseryearlyoverview\\getuseryearlyoverviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservespace\\reservespacevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservespace\\reservespacevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getreservations\\getreservationsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getreservations\\getreservationsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservehomeoffice\\reservehomeofficehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservehomeoffice\\reservehomeofficehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\gethomeoffice\\gethomeofficeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\gethomeoffice\\gethomeofficeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservespace\\reservespacehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservespace\\reservespacehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\rawmodels\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\rawmodels\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservehomeoffice\\reservehomeofficerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservehomeoffice\\reservehomeofficerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\enums\\erequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\enums\\erequeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservehomeoffice\\reservehomeofficevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservehomeoffice\\reservehomeofficevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservehomeoffice\\reservehomeofficeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservehomeoffice\\reservehomeofficeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\deskmateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:deskmateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\reservespace\\reservespaceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\reservespace\\reservespaceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\modifyreservationstatus\\modifyreservationstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\modifyreservationstatus\\modifyreservationstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\modifyreservationstatus\\modifyreservationstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\modifyreservationstatus\\modifyreservationstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\modifyreservationstatus\\modifyreservationstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\modifyreservationstatus\\modifyreservationstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getspacesforreservation\\getspacesforreservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getspacesforreservation\\getspacesforreservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getspacesforreservation\\getspacesforreservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getspacesforreservation\\getspacesforreservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getspacesforreservation\\getspacesforreservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getspacesforreservation\\getspacesforreservationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\gethomeoffice\\gethomeofficevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\gethomeoffice\\gethomeofficevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\gethomeoffice\\gethomeofficerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\gethomeoffice\\gethomeofficerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallspaces\\getallspacesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallspaces\\getallspacesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallspaces\\getallspacesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallspaces\\getallspacesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\reservations\\getallspaces\\getallspaceshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\reservations\\getallspaces\\getallspaceshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\enums\\espacetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\enums\\espacetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\enums\\erole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\enums\\erole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\utils\\mongoutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:utils\\mongoutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\entities\\rawmodels\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:entities\\rawmodels\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\auth\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\auth\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\auth\\authhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\auth\\authhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\auth\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\auth\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\features\\auth\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:features\\auth\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|c:\\git\\deskmateapi\\deskmateapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4BE280E5-23D8-41AE-9AF9-FC6E006B7E48}|DeskMateAPI.csproj|solutionrelative:deskmateapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:50:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllReservationsHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllReservations\\GetAllReservationsHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllReservations\\GetAllReservationsHandler.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvyQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:26:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\RawModels\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\RawModels\\User.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\RawModels\\User.cs",
+              "RelativeToolTip": "Entities\\RawModels\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:27:07.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationDetailed.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\ReservationDetailed.cs",
+              "RelativeDocumentMoniker": "Entities\\ReservationDetailed.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\ReservationDetailed.cs",
+              "RelativeToolTip": "Entities\\ReservationDetailed.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:08:56.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllUsersResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersResponse.cs",
+              "RelativeDocumentMoniker": "Features\\GetAllUsers\\GetAllUsersResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersResponse.cs",
+              "RelativeToolTip": "Features\\GetAllUsers\\GetAllUsersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:06:22.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllUsersValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersValidator.cs",
+              "RelativeDocumentMoniker": "Features\\GetAllUsers\\GetAllUsersValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersValidator.cs",
+              "RelativeToolTip": "Features\\GetAllUsers\\GetAllUsersValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:06:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllUsersHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersHandler.cs",
+              "RelativeDocumentMoniker": "Features\\GetAllUsers\\GetAllUsersHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersHandler.cs",
+              "RelativeToolTip": "Features\\GetAllUsers\\GetAllUsersHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:07:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\UserData.cs",
+              "RelativeDocumentMoniker": "Entities\\UserData.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\UserData.cs",
+              "RelativeToolTip": "Entities\\UserData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:30:10.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllUsersRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersRequest.cs",
+              "RelativeDocumentMoniker": "Features\\GetAllUsers\\GetAllUsersRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\GetAllUsers\\GetAllUsersRequest.cs",
+              "RelativeToolTip": "Features\\GetAllUsers\\GetAllUsersRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:40:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetReservationsRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetReservations\\GetReservationsRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetReservations\\GetReservationsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:42:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationOverView.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\ReservationOverView.cs",
+              "RelativeDocumentMoniker": "Entities\\ReservationOverView.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\ReservationOverView.cs",
+              "RelativeToolTip": "Entities\\ReservationOverView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:47:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetReservationsHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetReservations\\GetReservationsHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetReservations\\GetReservationsHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:43:22.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllReservationsRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllReservations\\GetAllReservationsRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllReservations\\GetAllReservationsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:25:36.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetSpacesForReservationHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:24:48.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllReservationsResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllReservations\\GetAllReservationsResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllReservations\\GetAllReservationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:25:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAywCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:34:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllReservationsValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllReservations\\GetAllReservationsValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllReservations\\GetAllReservationsValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllReservations\\GetAllReservationsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:26:08.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetReservationsResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetReservations\\GetReservationsResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetReservations\\GetReservationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:43:00.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllSpacesResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:23:39.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetHomeOfficeHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:31:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModifyReservationStatusHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:43:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetUserYearlyOverviewHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewHandler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:38:55.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetUserYearlyOverviewResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:38:29.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetUserYearlyOverviewRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:38:18.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReserveSpaceRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveSpace\\ReserveSpaceRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveSpace\\ReserveSpaceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:24:32.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetUserYearlyOverviewValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetUserYearlyOverview\\GetUserYearlyOverviewValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T04:38:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReserveSpaceValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveSpace\\ReserveSpaceValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveSpace\\ReserveSpaceValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:24:58.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetReservationsValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetReservations\\GetReservationsValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetReservations\\GetReservationsValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetReservations\\GetReservationsValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:43:11.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReserveHomeOfficeHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:57:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReserveSpaceHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveSpace\\ReserveSpaceHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveSpace\\ReserveSpaceHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:25:07.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetHomeOfficeResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:30:30.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\RawModels\\Reservation.cs",
+              "RelativeDocumentMoniker": "Entities\\RawModels\\Reservation.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\RawModels\\Reservation.cs",
+              "RelativeToolTip": "Entities\\RawModels\\Reservation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:25:27.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReserveHomeOfficeRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:56:58.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ERequestStatus.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\Enums\\ERequestStatus.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ERequestStatus.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\Enums\\ERequestStatus.cs",
+              "RelativeToolTip": "Entities\\Enums\\ERequestStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:36:38.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReserveHomeOfficeValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:57:21.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReserveHomeOfficeResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveHomeOffice\\ReserveHomeOfficeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:57:10.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeskMateAPI.csproj",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+              "RelativeDocumentMoniker": "DeskMateAPI.csproj",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+              "RelativeToolTip": "DeskMateAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T17:17:47.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReserveSpaceResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ReserveSpace\\ReserveSpaceResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ReserveSpace\\ReserveSpaceResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\ReserveSpace\\ReserveSpaceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:24:44.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ModifyReservationStatusValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:43:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ModifyReservationStatusResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:43:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ModifyReservationStatusRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\ModifyReservationStatus\\ModifyReservationStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:55:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetSpacesForReservationValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:23:58.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetSpacesForReservationResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationResponse.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:23:45.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetSpacesForReservationRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetSpacesForReservation\\GetSpacesForReservationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:23:34.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetHomeOfficeValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:30:42.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetHomeOfficeRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetHomeOffice\\GetHomeOfficeRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetHomeOffice\\GetHomeOfficeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:30:23.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetAllSpacesValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesValidator.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:23:53.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetAllSpacesRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesRequest.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:23:26.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetAllSpacesHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Reservations\\GetAllSpaces\\GetAllSpacesHandler.cs",
+              "RelativeToolTip": "Features\\Reservations\\GetAllSpaces\\GetAllSpacesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:24:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ESpaceType.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\Enums\\ESpaceType.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ESpaceType.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\Enums\\ESpaceType.cs",
+              "RelativeToolTip": "Entities\\Enums\\ESpaceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:34:57.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ERole.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\Enums\\ERole.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ERole.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\Enums\\ERole.cs",
+              "RelativeToolTip": "Entities\\Enums\\ERole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:43:27.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Data\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "Data\\MongoDbService.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Data\\MongoDbService.cs",
+              "RelativeToolTip": "Data\\MongoDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:35:27.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MongoUtils.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Utils\\MongoUtils.cs",
+              "RelativeDocumentMoniker": "Utils\\MongoUtils.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Utils\\MongoUtils.cs",
+              "RelativeToolTip": "Utils\\MongoUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:47:06.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Entities\\RawModels\\Space.cs",
+              "RelativeDocumentMoniker": "Entities\\RawModels\\Space.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Entities\\RawModels\\Space.cs",
+              "RelativeToolTip": "Entities\\RawModels\\Space.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:26:13.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:51:29.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Features\\Auth\\TokenGenerator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\TokenGenerator.cs",
+              "RelativeToolTip": "Features\\Auth\\TokenGenerator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:15:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T18:28:41.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AuthHandler.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Auth\\AuthHandler.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthHandler.cs",
+              "RelativeToolTip": "Features\\Auth\\AuthHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:21:15.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AuthValidator.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Auth\\AuthValidator.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthValidator.cs",
+              "RelativeToolTip": "Features\\Auth\\AuthValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:15:29.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Features\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "Features\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:15:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "Features\\Auth\\AuthRequest.cs",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\Features\\Auth\\AuthRequest.cs",
+              "RelativeToolTip": "Features\\Auth\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:14:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeskMateAPI",
+              "DocumentMoniker": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+              "RelativeDocumentMoniker": "DeskMateAPI.csproj",
+              "ToolTip": "C:\\GIT\\DeskMateAPI\\DeskMateAPI.csproj",
+              "RelativeToolTip": "DeskMateAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T20:06:15.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

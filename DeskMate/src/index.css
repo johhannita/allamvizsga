@@ -1,0 +1,6 @@
+body {
+    background-image: url("assets/background/background_cover.png"), url("assets/background/background.png");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: unset;
+}

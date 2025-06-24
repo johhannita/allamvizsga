@@ -1,0 +1,156 @@
+[
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "GetAllReservations",
+    "RelativePath": "api/Reservation/GetAllReservations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.GetAllReservations.GetAllReservationsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "GetHomeOffice",
+    "RelativePath": "api/Reservation/GetHomeOffice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.GetHomeOffice.GetHomeOfficeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "GetReservations",
+    "RelativePath": "api/Reservation/GetReservations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.GetReservations.GetReservationsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "GetSpacesForReservation",
+    "RelativePath": "api/Reservation/GetSpacesForReservation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.GetSpacesForReservation.GetSpacesForReservationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "GetUserYearlyOverview",
+    "RelativePath": "api/Reservation/GetUserYearlyOverview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.GetUserYearlyOverview.GetUserYearlyOverviewRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "ModifyReservationStatus",
+    "RelativePath": "api/Reservation/ModifyReservationStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.ModifyReservationStatus.ModifyReservationStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "ReserveHomeOffice",
+    "RelativePath": "api/Reservation/ReserveHomeOffice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.ReserveHomeOffice.ReserveHomeOfficeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.ReservationController",
+    "Method": "ReserveSpace",
+    "RelativePath": "api/Reservation/ReserveSpace",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Reservations.ReserveSpace.ReserveSpaceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DeskMateAPI.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DeskMateAPI.Features.Auth.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

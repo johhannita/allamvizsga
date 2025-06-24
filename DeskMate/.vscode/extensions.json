@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "formulahendry.auto-rename-tag",
+        "kisstkondoros.typelens",
+        "rvest.vs-code-prettier-eslint",
+        "pkief.material-icon-theme",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "burkeholland.simple-react-snippets"
+    ]
+}
